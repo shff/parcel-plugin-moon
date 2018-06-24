@@ -1,0 +1,16 @@
+{
+  "name": "parcel-plugin-moon",
+  "version": "1.0.0",
+  "description": "Parcel plugin for Moon.js",
+  "main": "index.js",
+  "repository": "https://github.com/shff/parcel-plugin-moon",
+  "author": "Silvio Henrique Ferreira <shferreira@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moon-component-compiler": "^0.1.4"
+  },
+  "peerDependencies": {
+    "moonjs": "^0.11.0",
+    "parcel": "^1.4.1"
+  }
+}
